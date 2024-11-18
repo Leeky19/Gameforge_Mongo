@@ -1,0 +1,15 @@
+{
+    "player_id": "UUID",               
+    "pseudo": "string",                  
+    "classe": "string",                    
+    "niveau": "int",                  
+    "competences": ["string"],             
+    "inventaire": [
+      {
+        "obj_id": "UUID",                
+        "quantite": "int"                   
+      }
+    ],
+    "date_connexion": "datetime" 
+  }
+  

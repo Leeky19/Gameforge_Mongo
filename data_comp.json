@@ -1,0 +1,7 @@
+{
+    "_id": "UUID",                       
+    "nom": "string",                       
+    "description": "string",               
+    "niveau_max": "int",                   
+    "classe_requise": "string"             
+  }

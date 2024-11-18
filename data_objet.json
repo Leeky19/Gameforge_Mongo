@@ -1,0 +1,6 @@
+{
+    "_id": "UUID",                         
+    "nom": "string",                       
+    "description": "string",               
+    "valeur": "int"                        
+  }
